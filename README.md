@@ -3,7 +3,7 @@
 ## I hope you enjoy it
 <i> This design is for Desktop responisve only. </i>
 
-+ <img src="Runied-king.png"/>
++ <img src="king.png"/>
 
 ## 🔗 Links
 
